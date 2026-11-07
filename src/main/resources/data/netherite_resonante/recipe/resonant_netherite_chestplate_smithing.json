@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "netherite_resonante:crystallized_upgrade_template",
+  "base": "minecraft:netherite_chestplate",
+  "addition": "netherite_resonante:overcharged_resonant_amethyst_shard",
+  "result": {
+    "id": "netherite_resonante:resonant_netherite_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "netherite_resonante:netherite_resonante"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "netherite_resonante:netherite_resonante"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "netherite_resonante:netherite_resonante"
+      }
+    ]
+  }
+}

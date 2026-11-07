@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.netheriteresonante.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AnvilMenuMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

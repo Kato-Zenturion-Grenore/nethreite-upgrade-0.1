@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "AEA",
+    "AAA"
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "E": "minecraft:echo_shard"
+  },
+  "result": {
+    "id": "netherite_resonante:resonant_amethyst_shard",
+    "count": 1
+  }
+}

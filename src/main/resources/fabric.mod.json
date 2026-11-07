@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "netherite_resonante",
+  "version": "${version}",
+  "name": "Netherite Resonante",
+  "description": "Una mejora de Netherite basada en amatista, fragmentos resonantes y aliento de dragón. Estadísticas x1,9 sobre la Netherite.",
+  "authors": [
+    "edwardandy0909"
+  ],
+  "license": "MIT",
+  "icon": "assets/netherite_resonante/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.netheriteresonante.NetheriteResonante"
+    ]
+  },
+  "mixins": [
+    "netherite_resonante.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

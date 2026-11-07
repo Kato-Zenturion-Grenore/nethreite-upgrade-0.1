@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:netherite_upgrade_smithing_template",
+    "netherite_resonante:overcharged_resonant_amethyst_shard"
+  ],
+  "result": {
+    "id": "netherite_resonante:crystallized_upgrade_template",
+    "count": 1
+  }
+}
